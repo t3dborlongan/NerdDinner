@@ -1,0 +1,9 @@
+site_name: Nerddinner
+site_description: This is static description from mkdocs yaml
+
+nav:
+  - Introduction: index.md
+  - More Information: More Information.md
+
+plugins:
+  - techdocs-core
