@@ -1,5 +1,6 @@
 NerdDinner
 ==========
+![NerdDinner Home Page](https://th.bing.com/th/id/OIP.ZGxBqcDDMO5ljKF9SQgZJAHaE8?rs=1&pid=ImgDetMain)
 
 NerdDinner is a sample application created by Microsoft to help developers learn how to build web applications using ASP.NET MVC. The application allows registered users to create, edit, and delete dinners, and it enforces a consistent set of validation and business rules across the application. Visitors can use an AJAX-based map to search for upcoming dinners being held near them, and clicking on a dinner will take them to a details page where they can learn more about it. If they are interested in attending the dinner, they can login or register on the site and then click an AJAX-based RSVP link to attend the event.
 
@@ -13,8 +14,6 @@ The home page of the NerdDinner application displays a list of upcoming dinners.
 -   The location of the dinner
 -   The number of people who have RSVP'd for the dinner
 -   A thumbnail image of the dinner
-
-![NerdDinner Home Page](https://th.bing.com/th/id/OIP.ZGxBqcDDMO5ljKF9SQgZJAHaE8?rs=1&pid=ImgDetMain)
 
 Dinner Details Page
 -------------------
