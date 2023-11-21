@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: NerdDinner
+  description: This is a sample component with Tech Doc implementation.
+  annotations:
+    github.com/project-slug: https://github.com/t3dborlongan/NerdDinner
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: Ted Borlongan
