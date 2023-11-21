@@ -14,7 +14,7 @@ The home page of the NerdDinner application displays a list of upcoming dinners.
 -   The number of people who have RSVP'd for the dinner
 -   A thumbnail image of the dinner
 
-![NerdDinner Home Page](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
+![NerdDinner Home Page](https://th.bing.com/th/id/OIP.ZGxBqcDDMO5ljKF9SQgZJAHaE8?rs=1&pid=ImgDetMain)
 
 Dinner Details Page
 -------------------
@@ -29,7 +29,7 @@ Clicking on a dinner card on the home page takes the user to the dinner details 
 -   The number of people who have RSVP'd for the dinner
 -   A map showing the location of the dinner
 
-![NerdDinner Details Page](https://medium.com/markdown-monster-blog/getting-images-into-markdown-documents-and-weblog-posts-with-markdown-monster-9ec6f353d8ec)
+
 
 Create Dinner Page
 ------------------
@@ -43,7 +43,7 @@ Registered users can create new dinners by clicking on the "Create New Dinner" b
 -   The name of the host of the dinner
 -   An image of the dinner
 
-![NerdDinner Create Dinner Page](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
+
 
 Conclusion
 ----------
