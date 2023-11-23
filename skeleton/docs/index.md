@@ -1,4 +1,4 @@
-NerdDinner 2024
+NerdDinner 2025
 ==========
 ![NerdDinner Home Page](https://th.bing.com/th/id/OIP.ZGxBqcDDMO5ljKF9SQgZJAHaE8?rs=1&pid=ImgDetMain)
 
